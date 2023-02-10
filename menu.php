@@ -13,12 +13,6 @@
       <li class="list-group-item" style="background-color:#555;border:2px solid #000">
       <a class=".text-white" style="color:#fff" href="rds.php">Banco de Dados</a>
     </li>
-    <li class="list-group-item" style="background-color:#555;border:2px solid #000">
-      <a class=".text-white" style="color:#fff" href="imagem.php">Imagens</a>
-    </li>
-    <li class="list-group-item" style="background-color:#555;border:2px solid #000">
-      <a class=".text-white" style="color:#fff" href="s3-input.php">S3</a>
-    </li>
   </ul>
 </div>
 
