@@ -1,14 +1,14 @@
 ---
-page_type: sample
+page_type: Simples
 languages:
 - php
 - Código Fonte PHP:
 - azure
-description: "This sample demonstrates a tiny Hello World PHP app for App Service."
+description: "Resitório criado pelo Microsoft Azure para testar o modelo de nuvem PaaS do WebApp."
 urlFragment: php-docs-hello-world
 ---
 
-# CÓDIGO FONTE EM PHP DE CONEXÃO COM BUCKET S3 
+# Código fonte da aplicação em PHP
 
 This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
 
