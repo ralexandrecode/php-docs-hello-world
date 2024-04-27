@@ -4,13 +4,13 @@ languages:
 - php
 - Código Fonte PHP:
 - azure
-description: "Resitório criado pelo Microsoft Azure para testar o modelo de nuvem PaaS do WebApp."
+description: "Resitório criado pelo Microsoft Azure"
 urlFragment: php-docs-hello-world
 ---
 
 # Código fonte da aplicação em PHP
 
-This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
+Resitório criado pelo Microsoft Azure para testar o modelo de nuvem PaaS do WebApp. [App Service](https://docs.microsoft.com/azure/app-service).
 
 ## Códigos de testes
 
